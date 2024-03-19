@@ -1,0 +1,90 @@
+INSERT test (1,"X-RAY",100); INSERT
+test (2,"BLOOD TEST",300); INSERT
+test (3,"URINE TEST",100); INSERT
+test (4,"MRI SCAN",1200);INSERT test
+(5,"ENDOSCOPY",3000);
+INSERT test (6,"BIOPSY",3500);
+INSERT test (7,"ULTRASOUND",900);
+INSERT test (8,"CT-SCAN",1100);
+INSERT test (9,"CBC",350);
+INSERT test (10,"FLU TEST",1500)
+
+//////////////////////////////////////////////////////
+
+INSERT salary ("DOCTOR",70000);
+INSERT salary ("NURSE",25000);
+INSERT salary ("RECEPTIONIST",20000);
+INSERT salary ("ACCOUNTANT",15000);
+INSERT salary ("CLEANER",14000);
+INSERT salary ("SECURITY",12000);
+INSERT salary ("AMBULANCE DRIVER",13000);
+INSERT medicine (1,"CROCINE",10);
+INSERT medicine (2,"ASPIRIN",8); INSERT
+medicine (3,"NAMOSLATE",8); INSERT
+medicine (4,"GLUCOSE",200); INSERT
+medicine (5,"TARIVID",80); INSERT
+medicine (6,"CANESTEN",12); INSERT
+medicine (7,"DICLOFENAC",18); INSERT
+medicine (8,"ANTACIDS",8); INSERT
+medicine (9,"VERMOX",40); INSERT
+medicine (10,"OVEX",25); INSERT medicine
+(11,"OMEE",35); INSERT medicine
+(12,"AVIL",4);
+INSERT medicine (13,"HIDRASEC",50);
+INSERT medicine (14,"UTINOR",80);
+INSERT medicine (15,"PARIET",8); INSERT
+medicine (16,"CIPROXIN",6); INSERT
+medicine (17,"CYPROSTAT",12); INSERT
+medicine (18,"ANDROCUR",80); INSERT
+medicine (19,"DESTOLIT",82); INSERT
+medicine (20,"URSOFALK",15); INSERT
+medicine (21,"ORS",7);
+INSERT medicine (22,"URSOGAL",20);
+INSERT medicine (23,"OMNI GEL",30);
+INSERT medicine (24,"DETTOL",45);
+INSERT medicine (25,"BETADINE",8);
+INSERT medicine (26,"LIVER-52",100);
+INSERT medicine (27,"METHYLPHENIDATE",12);
+INSERT medicine (28,"BETA-BLOCKER",90);
+INSERT medicine (29,"BENZODIAZEPINES",120);
+INSERT medicine (30,"Z-DRUG",150);
+INSERT medicine (31,"ANTIPSYCHOTIC",200);
+INSERT medicine (32,"SSRI-ANTIDEPRESSANT",250);
+INSERT medicine (33,"MAOI-DRUG",140);
+INSERT medicine (34,"BICASUL",1);
+INSERT medicine (35,"NASAL DECONGESTANTS",20);
+INSERT medicine (36,"EXPECTORANTS",10);
+INSERT medicine (37,"COUGH SUPRESSANTS",60);
+INSERT medicine (38,"ANTI HISTAMINES",40);
+INSERT medicine (39,"ACETAMINOPHEN",60);
+INSERT medicine (40,"HPV VACCINE",140); INSERT
+medicine (41,"SYRINGE",3);
+INSERT medicine (42,"INJECTION",10);
+INSERT medicine (43,"MORFIN",5);
+INSERT medicine (44,"ORLISTAT",10);
+INSERT medicine (45,"ZALASTA",85);
+INSERT medicine (46,"ZANTAC",84);
+INSERT medicine (47,"ZEFFIX",82);
+INSERT medicine (48,"ZINNAT",100);
+INSERT medicine (49,"ZOFRAN",80);
+INSERT medicine (50,"ZOCOR",18);
+
+////////////////////////////////////////////////////////////////////////////
+
+insert department (1,"ALLERGY",NULL);
+insert department (2,"INTENSIVE CARE",NULL);
+insert department (3,"ANESTHESIOLOGY",NULL);
+insert department (4,"CARDIOLOGY",NULL);
+insert department (5,"ENT",NULL);
+insert department (6,"NEUROLOGY",NULL);
+insert department (7,"ORTHOPEDICS",NULL);
+insert department (8,"PATHOLOGY",NULL);
+insert department (9,"RADIOLOGY",NULL);
+insert department (10,"SURGERY",NULL); insert
+department (11,"NURSE",NULL);
+insert department (12,"ACCOUNTS",NULL);
+insert department (13,"SECURITY",NULL);
+insert department (14,"CLEANER",NULL);
+
+/////////////////////////////////////////////////////////////////////////////////
+
